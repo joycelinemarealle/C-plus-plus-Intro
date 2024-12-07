@@ -40,6 +40,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "joycelinemarealle"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/joycelinemarealle/C-plus-plus-Intro.git",
+    "accountId": "c13c72bb-2cc3-4c63-bb70-f5f985d9073b"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1 intro/helloworld.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
@@ -57,14 +72,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.HelloWorld.cpp (1).executor": "Run",
+    "C/C++ File.HelloWorld.cpp (2).executor": "Run",
+    "C/C++ File.HelloWorld.cpp (3).executor": "Run",
+    "C/C++ File.HelloWorld.cpp (4).executor": "Run",
+    "C/C++ File.HelloWorld.cpp (5).executor": "Run",
+    "C/C++ File.HelloWorld.cpp.executor": "Run",
+    "C/C++ File.hellowordl.cpp.executor": "Run",
+    "C/C++ File.helloworld.cpp (1).executor": "Run",
+    "C/C++ File.helloworld.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Introduction",
+    "last_opened_file_path": "/Users/joycelinemarealle/CLionProjects/BroCode_Intro/cmake-build-debug/CMakeFiles/4 names spaces",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,12 +101,59 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/4 names spaces" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/intro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.HelloWorld.cpp">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HelloWorld.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/6 arithmetic operators/HelloWorld.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/7 type conversion/HelloWorld.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.cpp (4)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/UserInput/HelloWorld.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.cpp (5)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/10 useful math related func/HelloWorld.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/11 Hypotenuse of a Triangle/HelloWorld.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.HelloWorld.cpp" />
+        <item itemvalue="C/C++ File.HelloWorld.cpp (5)" />
+        <item itemvalue="C/C++ File.HelloWorld.cpp (4)" />
+        <item itemvalue="C/C++ File.HelloWorld.cpp (3)" />
+        <item itemvalue="C/C++ File.HelloWorld.cpp (2)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,12 +163,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733446284918</updated>
-      <workItem from="1733446286425" duration="1661000" />
+      <workItem from="1733446286425" duration="15508000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -106,5 +185,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1 intro/helloworld.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
