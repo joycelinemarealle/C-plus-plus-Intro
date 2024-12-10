@@ -27,7 +27,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations" />
+    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations">
+      <change beforePath="$PROJECT_DIR$/HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,14 +111,14 @@
       <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.HelloWorld.cpp">
+  <component name="RunManager" selected="C/C++ File.HelloWorld.cpp (1)">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/6 arithmetic operators/HelloWorld.cpp" />
+    <configuration name="HelloWorld.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/12 if statements/HelloWorld.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -147,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.HelloWorld.cpp (1)" />
         <item itemvalue="C/C++ File.HelloWorld.cpp" />
         <item itemvalue="C/C++ File.HelloWorld.cpp (5)" />
         <item itemvalue="C/C++ File.HelloWorld.cpp (4)" />
         <item itemvalue="C/C++ File.HelloWorld.cpp (3)" />
-        <item itemvalue="C/C++ File.HelloWorld.cpp (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733446284918</updated>
-      <workItem from="1733446286425" duration="20921000" />
+      <workItem from="1733446286425" duration="21766000" />
     </task>
     <task id="LOCAL-00001" summary="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations">
       <option name="closed" value="true" />
