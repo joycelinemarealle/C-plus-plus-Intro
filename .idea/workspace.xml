@@ -27,19 +27,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="ternary operator">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/47 Pointers/pointers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="Pointers">
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/48 Null Pointer/nullpointer.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/10 useful math related func/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/9 useful math related func/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/11 Hypotenuse of a Triangle/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/10 Hypotenuse of a Triangle/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/12 if statements/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/11 if statements/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/13 switches/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/12 switches/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/13 switches/HelloWorld2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/12 switches/HelloWorld2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/14 console calculator program/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/13 console calculator program/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/15 ternary operator/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/14 ternary operator/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/16 logical operators/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/15 logical operators/HelloWorld.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/9 UserInput/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/8 UserInput/HelloWorld.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2poxZREiY8yDGavbA0iADElsvSc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -104,6 +96,7 @@
     "C/C++ File.hellowordl.cpp.executor": "Run",
     "C/C++ File.helloworld.cpp (1).executor": "Run",
     "C/C++ File.helloworld.cpp.executor": "Run",
+    "C/C++ File.nullpointer.cpp.executor": "Run",
     "C/C++ File.pointers.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,16 +127,10 @@
       <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.pointers.cpp">
+  <component name="RunManager" selected="C/C++ File.nullpointer.cpp">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld2.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld2.cpp" CONFIG_NAME="HelloWorld2.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/13 switches/HelloWorld2.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="HelloWorld.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="HelloWorld.cpp" CONFIG_NAME="HelloWorld.cpp">
@@ -164,6 +151,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nullpointer.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="nullpointer.cpp" CONFIG_NAME="nullpointer.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/48 Null Pointer/nullpointer.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pointers.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="pointers.cpp" CONFIG_NAME="pointers.cpp">
       <option name="sourceFile" value="cmake-build-debug/CMakeFiles/47 Pointers/pointers.cpp" />
       <method v="2">
@@ -172,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.nullpointer.cpp" />
         <item itemvalue="C/C++ File.pointers.cpp" />
         <item itemvalue="C/C++ File.HelloWorld.cpp" />
         <item itemvalue="C/C++ File.HelloWorld.cpp (4)" />
         <item itemvalue="C/C++ File.HelloWorld.cpp (3)" />
-        <item itemvalue="C/C++ File.HelloWorld2.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733446284918</updated>
       <workItem from="1733446286425" duration="49646000" />
-      <workItem from="1737820194171" duration="2301000" />
+      <workItem from="1737820194171" duration="4395000" />
     </task>
     <task id="LOCAL-00001" summary="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations">
       <option name="closed" value="true" />
@@ -215,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733844732505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pointers">
+      <option name="closed" value="true" />
+      <created>1737822613209</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737822613209</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +242,8 @@
     <MESSAGE value="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations" />
     <MESSAGE value="if statement" />
     <MESSAGE value="ternary operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="ternary operator" />
+    <MESSAGE value="Pointers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pointers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
