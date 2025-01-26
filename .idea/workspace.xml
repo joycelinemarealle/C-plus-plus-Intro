@@ -27,10 +27,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="Temp conversion program">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/18 while loop/whileloop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/19 do while loop/dowhileloop.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/20 for loops/forloop.cpp" afterDir="false" />
+    <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="while, do while, for loops">
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/21 break and continue/breakcontinue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22 nested loop/nestedloop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/22 nested loop/rowsandcolumns.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +93,7 @@
     "C/C++ File.HelloWorld.cpp.executor": "Run",
     "C/C++ File.HelloWorld2.cpp.executor": "Run",
     "C/C++ File.append.cpp.executor": "Run",
+    "C/C++ File.breakcontinue.cpp.executor": "Run",
     "C/C++ File.dowhileloop.cpp.executor": "Run",
     "C/C++ File.erase.cpp.executor": "Run",
     "C/C++ File.find.cpp.executor": "Run",
@@ -102,8 +103,10 @@
     "C/C++ File.helloworld.cpp.executor": "Run",
     "C/C++ File.index.cpp.executor": "Run",
     "C/C++ File.insert.cpp.executor": "Run",
+    "C/C++ File.nestedloop.cpp.executor": "Run",
     "C/C++ File.nullpointer.cpp.executor": "Run",
     "C/C++ File.pointers.cpp.executor": "Run",
+    "C/C++ File.rowsandcolumns.cpp.executor": "Run",
     "C/C++ File.stringclear.cpp.executor": "Run",
     "C/C++ File.stringempty.cpp.executor": "Run",
     "C/C++ File.stringmethods.cpp.executor": "Run",
@@ -138,26 +141,20 @@
       <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.forloop.cpp">
+  <component name="RunManager" selected="C/C++ File.rowsandcolumns.cpp">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="breakcontinue.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="breakcontinue.cpp" CONFIG_NAME="breakcontinue.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/break and continue/breakcontinue.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dowhileloop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="dowhileloop.cpp" CONFIG_NAME="dowhileloop.cpp">
       <option name="sourceFile" value="cmake-build-debug/CMakeFiles/19 do while loop/dowhileloop.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="erase.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="erase.cpp" CONFIG_NAME="erase.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/17 Useful string methods in c++/erase.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="find.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="find.cpp" CONFIG_NAME="find.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/17 Useful string methods in c++/find.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -168,19 +165,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whilellop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="whilellop.cpp" CONFIG_NAME="whilellop.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/18 while loop/whilellop.cpp" />
+    <configuration name="nestedloop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="nestedloop.cpp" CONFIG_NAME="nestedloop.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/22 nested loop/nestedloop.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rowsandcolumns.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="rowsandcolumns.cpp" CONFIG_NAME="rowsandcolumns.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/22 nested loop/rowsandcolumns.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.rowsandcolumns.cpp" />
+        <item itemvalue="C/C++ File.nestedloop.cpp" />
+        <item itemvalue="C/C++ File.breakcontinue.cpp" />
         <item itemvalue="C/C++ File.forloop.cpp" />
         <item itemvalue="C/C++ File.dowhileloop.cpp" />
-        <item itemvalue="C/C++ File.whilellop.cpp" />
-        <item itemvalue="C/C++ File.erase.cpp" />
-        <item itemvalue="C/C++ File.find.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733446284918</updated>
       <workItem from="1733446286425" duration="49646000" />
-      <workItem from="1737820194171" duration="11596000" />
+      <workItem from="1737820194171" duration="13632000" />
     </task>
     <task id="LOCAL-00001" summary="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations">
       <option name="closed" value="true" />
@@ -243,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737825975630</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="while, do while, for loops">
+      <option name="closed" value="true" />
+      <created>1737906505948</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737906505948</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +283,8 @@
     <MESSAGE value="Pointers" />
     <MESSAGE value="Null pointers" />
     <MESSAGE value="Temp conversion program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temp conversion program" />
+    <MESSAGE value="while, do while, for loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="while, do while, for loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -295,6 +307,11 @@
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/insert.cpp</url>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/20 for loops/forloop.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
