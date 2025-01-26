@@ -28,16 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9556469e-4d48-4d9a-80ae-25f02e4bc621" name="Changes" comment="Temp conversion program">
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/append.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/at.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/clear.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/empty.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/erase.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/find.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/insert.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/length.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/18 while loop/whileloop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/19 do while loop/dowhileloop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/20 for loops/forloop.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Temp conversion program/tempconversion.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/16 Temp conversion program/tempconversion.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +60,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/1 intro/helloworld.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/16 Temp conversion program/tempconversion.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/append.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/empty.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/17 Useful string methods in c++/length.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/48 Null Pointer/nullpointer.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -98,8 +93,10 @@
     "C/C++ File.HelloWorld.cpp.executor": "Run",
     "C/C++ File.HelloWorld2.cpp.executor": "Run",
     "C/C++ File.append.cpp.executor": "Run",
+    "C/C++ File.dowhileloop.cpp.executor": "Run",
     "C/C++ File.erase.cpp.executor": "Run",
     "C/C++ File.find.cpp.executor": "Run",
+    "C/C++ File.forloop.cpp.executor": "Run",
     "C/C++ File.hellowordl.cpp.executor": "Run",
     "C/C++ File.helloworld.cpp (1).executor": "Run",
     "C/C++ File.helloworld.cpp.executor": "Run",
@@ -111,6 +108,7 @@
     "C/C++ File.stringempty.cpp.executor": "Run",
     "C/C++ File.stringmethods.cpp.executor": "Run",
     "C/C++ File.tempconversion.cpp.executor": "Run",
+    "C/C++ File.whilellop.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -140,14 +138,14 @@
       <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/intro" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.erase.cpp">
+  <component name="RunManager" selected="C/C++ File.forloop.cpp">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="append.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="append.cpp" CONFIG_NAME="append.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/17 Useful string methods in c++/append.cpp" />
+    <configuration name="dowhileloop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="dowhileloop.cpp" CONFIG_NAME="dowhileloop.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/19 do while loop/dowhileloop.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -164,25 +162,25 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="index.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="index.cpp" CONFIG_NAME="index.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/17 Useful string methods in c++/index.cpp" />
+    <configuration name="forloop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="forloop.cpp" CONFIG_NAME="forloop.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/20 for loops/forloop.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insert.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="insert.cpp" CONFIG_NAME="insert.cpp">
-      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/17 Useful string methods in c++/insert.cpp" />
+    <configuration name="whilellop.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BroCode_Intro" TARGET_NAME="whilellop.cpp" CONFIG_NAME="whilellop.cpp">
+      <option name="sourceFile" value="cmake-build-debug/CMakeFiles/18 while loop/whilellop.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.forloop.cpp" />
+        <item itemvalue="C/C++ File.dowhileloop.cpp" />
+        <item itemvalue="C/C++ File.whilellop.cpp" />
         <item itemvalue="C/C++ File.erase.cpp" />
         <item itemvalue="C/C++ File.find.cpp" />
-        <item itemvalue="C/C++ File.insert.cpp" />
-        <item itemvalue="C/C++ File.index.cpp" />
-        <item itemvalue="C/C++ File.append.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +193,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733446284918</updated>
       <workItem from="1733446286425" duration="49646000" />
-      <workItem from="1737820194171" duration="9338000" />
+      <workItem from="1737820194171" duration="11596000" />
     </task>
     <task id="LOCAL-00001" summary="vairables, const, namespace, typedef,arithmetic operations, type conversion, user input, math related function, hypotenuse calculations">
       <option name="closed" value="true" />
