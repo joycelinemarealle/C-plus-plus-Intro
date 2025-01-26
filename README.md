@@ -1,2 +1,2 @@
-# C-plus-plus-Intro
+# C-plus-plus
 C++ intro
